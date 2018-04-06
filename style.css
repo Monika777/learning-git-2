@@ -13,3 +13,12 @@ img {
 	max-height: 70vh;
 	width: 100%;
 }
+.container { 
+	width: 100%;
+	max-width: 400px;
+	margin: 0 auto;
+}
+p {
+	font: italic;
+	line-height: 1.5;
+}
