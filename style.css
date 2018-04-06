@@ -22,3 +22,12 @@ p {
 	font: italic;
 	line-height: 1.5;
 }
+.footer{
+	width: 100%;
+	height: 20vh;
+	background:#341F34;
+}
+.footer p {
+	padding-top: 40px;
+	text-align: center;
+}
