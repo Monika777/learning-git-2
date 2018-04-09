@@ -19,7 +19,7 @@ img {
 	margin: 0 auto;
 }
 p {
-	font: italic;
+	font-size: 18px;
 	line-height: 1.5;
 }
 .footer{
