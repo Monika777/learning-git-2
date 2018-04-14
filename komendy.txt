@@ -1,2 +1,2 @@
 autoprefixer-cli -o style.css  main.css style.prefixed.css 
-java -jar ~/vnu.jar --skip-non-html learning-git-2/
+npm install -g nu-html-checker
