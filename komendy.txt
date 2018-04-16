@@ -1,2 +1,2 @@
-autoprefixer-cli -o style.css  main.css style.prefixed.css 
-npm install -g nu-html-checker
+node_modules/.bin/autoprefixer-cli -o css/style.prefixed.css css/style.css
+node_modules/.bin/nu-html-checker *.html
